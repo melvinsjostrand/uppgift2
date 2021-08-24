@@ -1,0 +1,35 @@
+.huvudrubrik{
+    color:darkgreen;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.text{
+    color: lightblue;
+    border: solid black;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+border-radius: 10px;
+}
+
+.program{
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    background-color: white;
+
+}
+
+.hemsida{
+    text-decoration:transparent;
+}
+
+.hej{
+    color: white;
+    text-align: center;
+    background-color: black;
+    border:black;
+    border-radius: 10px;
+}
+
+
